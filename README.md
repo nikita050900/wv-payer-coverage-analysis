@@ -6,6 +6,8 @@ across three years (2023 to 2025) of **synthetic** West Virginia visit data.
 The data is modeled in Oracle as a small star schema, checked with SQL data-quality rules
 on every load, summarized in SQL views, and shown in a Tableau Public dashboard.
 
+**Live dashboard:** [Who Pays for Hospital Visits? (Tableau Public)](https://public.tableau.com/app/profile/nikita.agarwal1141/viz/WVPayerMixandCoveragesyntheticdata/WhoPaysforHospitalVisitsWestVirginia2023-2025syntheticdata)
+
 > All data is synthetic, generated with [Synthea](https://github.com/synthetichealth/synthea).
 > No real patients or claims are involved.
 
